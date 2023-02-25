@@ -1,0 +1,26 @@
+{
+    "name": "John Smith",
+    "avatar": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+    "links": [
+        {
+            "title": "My Personal Website",
+            "href": "https://strafe.online/",
+            "image": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png"
+        },
+        {
+            "title": "Vercel Website",
+            "href": "https://vercel.com",
+            "image": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png"
+        }
+    ],
+    "socials": [
+        {
+            "type": "Twitter",
+            "href": "https://twitter.com/JohnSmith"
+        },
+        {
+            "type": "GitHub",
+            "href": "https://github.com/JohnSmith"
+        }
+    ]
+}
